@@ -19,7 +19,7 @@ The phases carried out for this project are: cleaning the dataset, creating the 
 
 The tools used are: python, tableau, figma.
 
-The data was taken from https://www.kaggle.com/ for educational purposes.
+The data was taken from <a href="https://www.kaggle.com/">Kaggle</a> for educational purposes.
 
 You can see the views via the following links:
 
